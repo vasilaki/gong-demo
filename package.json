@@ -27,7 +27,7 @@
     "dependencies": {
         "@pixi/layers": "^1.0.11",
         "@types/gsap": "^3.0.0",
-        "core-js": "^3.20.3",
+        "core-js": "^3.25.4",
         "gsap": "^3.10.4",
         "pixi-spine": "^3.0.13",
         "pixi.js": "^6.2.2",
