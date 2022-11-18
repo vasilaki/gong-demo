@@ -31,7 +31,7 @@
         "gsap": "^3.10.4",
         "pixi-spine": "^3.0.13",
         "pixi.js": "^6.2.2",
-        "regenerator-runtime": "^0.13.9"
+        "regenerator-runtime": "^0.13.11"
     },
     "devDependencies": {
         "@swc/core": "^1.2.135",
